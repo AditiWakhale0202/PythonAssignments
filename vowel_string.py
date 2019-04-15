@@ -1,3 +1,5 @@
+# Problem Statement: In a given string, it is desired to get the maximum length of substing which only consists of the vowels by eliminating only two substrings.
+
 map_vowel = {}
 S = "JootaJapani"
 print S
